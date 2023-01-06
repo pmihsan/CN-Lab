@@ -1,0 +1,2 @@
+Name	Age	Dept	Year
+kuamr	21	ECE	3rd

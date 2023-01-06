@@ -1,0 +1,10 @@
+Assessment:
+	Internals: 16
+	Assignment: 38
+	Total:	54
+
+End-Sem:
+	Total: 91
+	For 40: 35
+
+Total: 89

@@ -1,0 +1,4 @@
+yahoo.com 15.16.143.251
+baidu.com 75.67.34.14
+microsoft.edu 54.23.34.56
+google.com 10.14.56.123
